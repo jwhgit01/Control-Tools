@@ -1,4 +1,19 @@
 function Mp = umat2aff(M,pNames)
+%umat2aff 
+%
+% Copyright (c) 2022 Jeremy W. Hopwood. All rights reserved.
+%
+% This function ...
+%
+% Inputs:
+%
+%   in1     The first input...
+%  
+% Outputs:
+%
+%   out1    The first output...
+%
+
 
 % dimensions
 n = size(M,1);

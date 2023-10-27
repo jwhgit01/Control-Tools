@@ -1,4 +1,19 @@
 function [Poly,legacy] = uss2pol(usys)
+%uss2pol 
+%
+% Copyright (c) 2022 Jeremy W. Hopwood. All rights reserved.
+%
+% This function ...
+%
+% Inputs:
+%
+%   in1     The first input...
+%  
+% Outputs:
+%
+%   out1    The first output...
+%
+
 %
 % Rules:
 %   - system must be affine in the parameters
